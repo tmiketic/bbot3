@@ -1,10 +1,10 @@
 # Site settings
-title: BBOT
-email: your-email@domain.com
-url: https://jeromelachaud.com/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+title: B-BOT
+email: bmehackathon@gmail.com
+url: https://tmiketic.github.io/bbot3/
+description: "A Breast Cancer Resource Chatbot"
+keywords: ""
+skills: "A Breast Cancer Resource Chatbot"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Dr. Henry Jekyll
-  location: Location
+  location: 
   social: Around the Web
   credits: Credits
 
@@ -52,11 +52,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: New York, NY
+  - line: 
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits:  <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
