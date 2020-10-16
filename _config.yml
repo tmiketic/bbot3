@@ -52,11 +52,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: New York, NY
+  - line: Based in New York, NY
   - line: 
 
 # Credits content
-credits:  <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits:  <a href="http://startbootstrap.com">Start Bootstrap</a>.
 
 # Build settings
 markdown: kramdown
